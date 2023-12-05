@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+text-align: center;
+}
+
+#projeto{
+    padding: 20px;
+}
+
+#informações{
+    margin-bottom: 20px;
+
+}
+
+#footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#quadrinhos{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    text-align: center;
+    display: flex; 
+}
+#quadrinhos2{
+    display: flex;
+            flex-direction: column;
+            align-items: center;
+             width: 50%; 
+            height: auto; 
+            margin-bottom: 10px;
+            margin: 0;
+
+}h1{color: #44576d;
+    background-color:   #FFF0F5;
+    padding: 20px 20px 20px 30px;
+}
